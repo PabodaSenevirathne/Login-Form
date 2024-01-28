@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">PabodaTask2</string>
+    <string name="title">Login Form</string>
+    <string name="user_name">UserName:</string>
+    <string name="password">Password:</string>
+    <string name="button">LOGIN</string>
+    <string name="text_password">Password</string>
+    <string name="text_username">UserName</string>
 </resources>
